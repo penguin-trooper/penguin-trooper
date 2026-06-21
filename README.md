@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I'm Akmal 👋
 
-I'm a passionate developer with expertise in full-stack development, machine learning, and database management.
+I am a Technical Project Manager & Full-Stack Developer driven by a passion for continuous learning and adapting new technologies to solve complex challenges.
 
 ### 🔧 TECHNICAL SKILLS
 
