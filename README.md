@@ -40,46 +40,11 @@ I am a Technical Project Manager & Full-Stack Developer driven by a passion for 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <!-- AI model / assistant badges -->
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23111B30.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### 📚 ACADEMIC PROJECTS
-
-#### Personal Financial Planning System
-**MARCH - JUNE 2026**
-*HTML, CSS, JavaScript, Node.js, Express.js, MySQL*
-
-Developed a full-stack financial planning web application with secure OTP-based multi-step registration, Google OAuth 2.0 integration, session management, and interactive tools for budgeting, goal tra[...] 
-
-#### Red Flag Detection
-**MARCH - JUNE 2026**
-*Python, Scikit-learn, YOLO8, TensorFlow*
-
-Machine learning-based dating profile analysis using NLP and YOLO8 visual analysis with SMOTE classification to detect risk signals in dating bios and profiles, featuring chrome extension with TensorF[...] 
-
-#### Drone4Dengue Test Automation Framework
-**APRIL 2026**
-*Selenium, Appium, Automated Testing, Black-Box Testing*
-
-Conducted automated functional testing for the Drone4Dengue web and mobile platforms using Selenium and Appium, designing and executing black-box test cases to validate functionality and identify defe[...] 
-
-#### UM Visa Mate
-**JAN 2026**
-*Kotlin, Android Studio, XML, Lycopene*
-
-Native Android mobile app built with Kotlin for university visa management, featuring role-based student/faculty/admin portals, document uploads, payment processing, and multi-stage application tracki[...] 
-
-#### Database Management System for Aistorium
-**DEC 2025**
-*Oracle APEX, SQL*
-
-Developed and deployed a 3NF relational database for a cafe in Oracle APEX using SQL, translating business workflows into ERDs and writing advanced queries to automate sales reports and stock alerts.
 
 ---
 
